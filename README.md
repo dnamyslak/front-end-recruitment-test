@@ -1,3 +1,7 @@
+# Live demo
+
+https://dnamyslak.pl/_projects/snowdog/app/
+
 # Snowdog Front-end Recruitment test
 
 Test it's based on Google Web Starter Kit v0.6.1 -> https://github.com/google/web-starter-kit
